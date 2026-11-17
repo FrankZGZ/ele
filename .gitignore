@@ -1,0 +1,22 @@
+4_DesignTool_Software/2_KiCAD_Files/
+4_DesignTool_Software/3_FabricationTool_App/src/__pycache__/
+4_DesignTool_Software/3_FabricationTool_App/src/controllers/__pycache__/
+4_DesignTool_Software/3_FabricationTool_App/src/views/__pycache__/
+4_DesignTool_Software/.venv/
+4_DesignTool_Software/3_FabricationTool_App/src/ui/__pycache__/
+4_DesignTool_Software/3_FabricationTool_App/outputs/
+4_DesignTool_Software/1_KiCadenerator/kicad-coil-plugins-main/
+4_DesignTool_Software/3_FabricationTool_App/meshes/StandingCat.stl
+4_DesignTool_Software/venv/
+1_Firmware/ETactileKit/.vscode/
+5_APIs/1_Python_API/__pycache__/
+.DS_Store
+/4_DesignTool_Software/3_FabricationTool_App/src/utils/__pycache__
+5_APIs/1_Python_API/api/__pycache__/
+1_Firmware/ETactileKit/.claude/
+1_Firmware/ETactileKit/lib/Configuration/configuration.h
+# Local-only (not for upload)
+1_eTactileKit_Firmware/lib/Configuration/configuration.h
+5_APIs/2_Unity_API/ElbowLogs/
+work/
+5_APIs/2_Unity_API/.utmp/
